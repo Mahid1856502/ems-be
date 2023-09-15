@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sizes_size_charts",
+  "info": {
+    "displayName": "size_chart"
+  },
+  "options": {},
+  "attributes": {
+    "sizes": {
+      "type": "json"
+    }
+  }
+}

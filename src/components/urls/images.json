@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_urls_images",
+  "info": {
+    "displayName": "images",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string",
+      "unique": false
+    }
+  }
+}
